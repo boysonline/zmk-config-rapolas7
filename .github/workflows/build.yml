@@ -5,6 +5,5 @@ jobs:
   build:
     uses: zmkfirmware/zmk/.github/workflows/build-user-config.yml@v0.2
     with:
-      shield: rapolas7_left
-      shield: rapolas7_right
+      config-path: config
     secrets: inherit
