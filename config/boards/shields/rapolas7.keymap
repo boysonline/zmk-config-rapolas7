@@ -10,8 +10,8 @@
                 &kp G &kp H &kp I &kp J &kp K &kp L    
                 &kp M &kp N &kp O &kp P &kp Q &kp R    
                 &kp S &kp T &kP U &kp V &kp Z &kp BANG    
-                                            &kp SPACE &kp ENTER   
-                                            &kp BACK &kp DELETE      
+                &kp SPACE &kp ENTER   
+                &kp BACK &kp DELETE      
                 >;};
             number_layer { bindings = <>;};
             symbol_layer { bindings = <>;};
