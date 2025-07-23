@@ -8,5 +8,3 @@ jobs:
       shield: rapolas7_left
       shield: rapolas7_right
     secrets: inherit
-    env:
-      ZMK_CONFIG: config
