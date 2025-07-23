@@ -3,5 +3,3 @@ include:
     shield: rapolas7_left
   - board: nice_nano_v2
     shield: rapolas7_right
-  - board: nice_nano_v2
-    shield: settings_reset
