@@ -1,3 +1,0 @@
-[submodule "config/modules/zmk-keyboard-rapolas7"]
-	path = config/modules/zmk-keyboard-rapolas7
-	url = https://github.com/boysonline/zmk-keyboard-rapolas7.git
