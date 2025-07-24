@@ -16,4 +16,4 @@ manifest:
       revision: main
       path: modules/zmk-keyboard-rapolas7
   self:
-    path: config
+    path: zmk-config-rapolas7
