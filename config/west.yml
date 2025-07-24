@@ -4,9 +4,16 @@ manifest:
   remotes:
     - name: zmkfirmware
       url-base: https://github.com/zmkfirmware
+    - name: zmk-keyboard-rapolas7
+      url: https://github.com/boysonline/zmk-keyboard-rapolas7
   projects:
     - name: zmk
       remote: zmkfirmware
+      revision: main
       import: app/west.yml
+    - name: zmk-keyboard-rapolas7
+      remote: boysonline
+      revision: main
+      path: modules/zmk-keyboard-rapolas7
   self:
     path: config

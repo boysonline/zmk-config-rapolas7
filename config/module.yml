@@ -1,3 +1,0 @@
-name: zmk-config-rapolas7
-build:
-  cmake: .
