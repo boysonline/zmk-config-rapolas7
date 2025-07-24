@@ -14,6 +14,6 @@ manifest:
     - name: zmk-keyboard-rapolas7
       remote: boysonline
       revision: main
-      path: ../modules/zmk-keyboard-rapolas7
+      path: modules/zmk-keyboard-rapolas7
   self:
     path: config
